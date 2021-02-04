@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ecomm-nxtgen-pd-aem" mode="merge"/>
+    <filter root="/content/ecomm-nxtgen-pd-aem" mode="merge"/>
+    <filter root="/content/dam/ecomm-nxtgen-pd-aem" mode="merge"/>
+    <filter root="/content/experience-fragments/ecomm-nxtgen-pd-aem" mode="merge"/>
+</workspaceFilter>

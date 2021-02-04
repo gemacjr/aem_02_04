@@ -1,0 +1,9 @@
+{
+  "generator-aem-application": {
+    "promptValues": {
+      "mavenAppsModuleName": "ui.apps",
+      "mavenBundleModuleName": "core",
+      "javaRootPackageName": "com.cardinalhealth.ecomm.nxtgen.pd.aem.core"
+    }
+  }
+}
